@@ -1,3 +1,4 @@
+// write a code to find duplicate character in a string
 #include <bits/stdc++.h>
 using namespace std;
 
