@@ -1,4 +1,4 @@
-// CHECK IF STRING IS ROTATION OF ANOTHER STRING.
+// CHECK IF STRING IS PALINDROME OR NOT
 #include <bits/stdc++.h>
 using namespace std;
 
