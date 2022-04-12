@@ -1,5 +1,5 @@
 // https://www.programiz.com/java-programming/examples/check-valid-shuffle-of-strings
-// Check if a string is a valid shuffle of two distinct strings
+// Check if a string is a valid shuffle of two distinct strings.
 
 #include <bits/stdc++.h>
 using namespace std;
