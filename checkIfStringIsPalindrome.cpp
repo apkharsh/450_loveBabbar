@@ -1,4 +1,4 @@
-// CHECK IF STRING IS PALINDROME OR NOT
+// CHECK IF STRING IS PALINDROME OR NOT.
 #include <bits/stdc++.h>
 using namespace std;
 
