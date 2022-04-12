@@ -1,4 +1,4 @@
-// Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1? 
+// Given a string s1 and a string s2, write a snippet to say whether s2 is a rotation of s1
 
 #include <bits/stdc++.h>
 using namespace std;
